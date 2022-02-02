@@ -1,0 +1,218 @@
+bodi {
+    font-family: Arial, sans-serif;
+}
+nav {
+    height: 60px;
+    width: 100%;
+    background-color: #344051;
+}
+.logo {
+    line-height: 60px;
+    margin-left: 380px;
+    font-size: 28px;
+    float: left;
+    color: #fff;
+}
+.menu {
+padding-left: 432px;
+    float: left;
+}
+.menu li {
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 43px;
+    text-transform: uppercase;
+}
+.main {
+ width: 100%;
+    height: 910px;
+    background: url(../img/boy-next-door.png) 90% 100%/auto 85% no-repeat  , url(../img/back1.png) center/cover no-repeat;
+    box-shadow: 1px
+}
+.title {
+   float: left;
+    margin: 432px 0px 0px 402px;
+    text-align: center;
+}
+.title h1 {
+    color: #2c384a;
+    font-size: 60px;
+font-weight: bold;
+}
+.title h4 {
+    margin-top: 30px;
+    margin-bottom: 46px;
+    font-size: 16px;
+    color: #828995;
+}
+.title input {
+    color: #6d7682;
+    border: 2px solid #6d7682;
+    border-radius: 10%;
+    padding: 7px;
+    margin: 0px 13px 0px 13px;
+    background: none;
+}
+.main2 {
+    width: 100%;
+    height: 725px;
+}
+.discription h2 {
+    float: left;
+    width: 101%;
+    margin: 100px 896px 0px 896px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.cherta {
+    float: left;
+    margin: 24px 911px;
+}
+.photo1 {
+    margin: 35px 847px 10px;
+}
+.discription p {
+    width: 45%;
+    text-align: left;
+    margin: 10px 595px 45px 595px;
+    font-weight: 300
+}
+.discription input {
+    color: #6d7682;
+    border: 2px solid #6d7682;
+    border-radius: 10%;
+    padding: 5px 5px 5px 20px;
+    margin-left: 885px;
+    background: url(../img/download.png) no-repeat 4% 50%
+}
+.main3 {
+    float: left;
+    width: 100%;
+    height: 520px;
+    background: url(../img/backjpeg.jpg) no-repeat;
+}
+.main3 h2 {
+    width: 500px;
+    float: left;
+    margin: 110px 900px 20px 875px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 150%
+}
+.cherta2 {
+    margin: 0px 910px
+}
+.skill1 {
+    float: left;
+    width: 215px;
+    height: 160px;
+    margin: 110px 0px 0px 310px;
+}
+.skill2 {
+    float: left;
+    width: 215px;
+    height: 160px;
+    margin: 110px 0px 0px 120px;
+}
+.skill3 {
+    float: left;
+    width: 215px;
+    height: 160px;
+    margin: 110px 0px 0px 120px;
+}
+.skill4 {
+    float: left;
+    width: 215px;
+    height: 160px;
+    margin: 110px 0px 0px 110px;
+}
+.skill1 img {
+    margin: 0px 77px
+}
+.skill1 span {
+    float: left;
+    margin: 40px 60px 20px 70px;
+    color: #cf7600;
+    font-weight: 600;
+}
+.skill1 p {
+     float: left;
+    text-align: center
+}
+.skill2 img {
+    margin: 0px 77px
+}
+.skill2 span {
+    float: left;
+    margin: 40px 60px 20px 70px;
+    color: #cf7600;
+    font-weight: 600;
+}
+.skill2 p {
+     float: left;
+    text-align: center
+}
+.skill3 img {
+    margin: 0px 77px
+}
+.skill3 span {
+    float: left;
+    width: 110%;
+    margin: 40px 60px 20px 50px;
+    color: #cf7600;
+    font-weight: 600;
+}
+.skill3 p {
+     float: left;
+    text-align: center
+}
+.skill4 img {
+    margin: 0px 77px
+}
+.skill4 span {
+    float: left;
+    margin: 40px 60px 20px 70px;
+    color: #cf7600;
+    font-weight: 600;
+}
+.skill4 p {
+     float: left;
+    text-align: center
+}
+.main4 {
+    float: left;
+    width: 100%;
+    height: 2000px;
+}
+.siteView h2 {
+     width: 00px;
+    float: left;
+    margin: 110px 900px 20px 910px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 150%
+}
+.cherta3 {
+    margin: 24px 916px;
+}
+.siteView p {
+    float: left;
+    margin: 0px 700px;
+}
+.op {
+    float: left;
+    margin: 40px 360px 40px 360px;
+}
+.siteLink {
+    float: left;
+    width: 100%;
+    
+}
+.siteLink h3 {
+margin:1px;
+}
+.priceCount {
+    float: left;
+}
+
