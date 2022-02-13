@@ -1,0 +1,36 @@
+body {
+    background: #3478d7;
+       font-family: Arial, sans-serif;
+}
+.circle {
+    display: block;
+    position: absolute;
+    top: 10%;
+    left: 46%;
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    border: 10px solid rgba(255, 255, 255,.1);
+    border-top: 10px solid #fff;
+    animation: identifier 2s infinite cubic-bezier(.24,-0.08,.74,.14);   
+}
+
+@keyframes identifier {
+    from {  
+        transform: translate(-20%, 50%) rotate(0deg)
+    }
+    to { 
+    transform: translate(-20%, 50%) rotate(360deg)
+    }
+}
+.text {
+    position: absolute;
+    top: 50%;
+    left: 46%;
+}
+.text span {
+    color: aliceblue;
+    font-size: 160%;
+    font-weight: bold
+    
+}
